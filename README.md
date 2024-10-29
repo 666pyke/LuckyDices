@@ -4,7 +4,7 @@
 **LuckyDices** is a Minecraft plugin that introduces a fun and engaging dice-rolling experience for players. With custom dice items, players can roll for random rewards, adding an exciting layer of luck and strategy to your server. Whether as a reward system, minigame, or fun addition, LuckyDices is designed to keep players entertained and engaged.
 
 ## In-game View
-![LuckyDices In-Game](https://imgur.com/a/SjOMcz7)
+![LuckyDices In-Game](https://i.imgur.com/rgVmSX3.mp4)
 
 ## Features
 - **Custom Dice Item**: Players can receive a unique dice item with a custom texture and lore, enhancing immersion.
