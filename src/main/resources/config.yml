@@ -1,0 +1,32 @@
+dice-item:
+  name: "&aMagic Dice"
+  lore:
+    - "&7Roll it to see what you get!"
+
+roll-actions:
+  1:
+    - "say You rolled a 1!"
+    - "give {user} minecraft:diamond 1"
+  2:
+    - "say You rolled a 2!"
+  3:
+    - "say You rolled a 3!"
+  4:
+    - "say You rolled a 4!"
+  5:
+    - "say You rolled a 5!"
+  6:
+    - "say You rolled a 6!"
+
+messages:
+  cooldown: "&cYou have to wait {time} seconds to roll again!"
+  received_dice: "&aYou received a Magic Dice!"
+  only_players: "&cOnly players can use this command."
+  no_permission: "&cYou do not have permission to use this command."
+  no_inventory_space: "&cPlayer does not have enough space in his inventory!"
+  config_reloaded: "&aConfiguration reloaded successfully!"
+  player_not_found: "&cPlayer not found."
+  invalid_amount: "&cThe amount must be a number."
+  usage_give: "&cUsage: /dice give <player> <amount>"
+  usage_main: "&cUsage: /dice <give|reload> [arguments]"
+  dice_given: "&aYou have given {amount} dice(s) to {player}"

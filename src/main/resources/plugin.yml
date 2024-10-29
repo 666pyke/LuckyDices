@@ -1,0 +1,14 @@
+name: LuckyDices
+version: '1.0'
+main: org.me.pyke.luckydices.LuckyDices
+api-version: '1.20'
+author: 666pyke
+commands:
+  getdice:
+    description: Gives the player a magic dice.
+    permission: luckydices.getdice
+  dice:
+    description: Main command for LuckyDices.
+    usage: /dice <give|reload> [arguments]
+    aliases: [luckydice]
+    permission: luckydices.admin
